@@ -24,6 +24,6 @@ To run tests with the browser UI visible:
 npx playwright test --headed
 ```
 
-### 📁 Videos
+###  Videos
 
 A folder containing videos is included to demonstrate the steps for each test case.
