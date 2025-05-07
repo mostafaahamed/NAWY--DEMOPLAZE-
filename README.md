@@ -6,6 +6,7 @@ It covers key test scenarios including:
 - Login  
 - Register  
 - Place Order
+- logout
 
 The tests are structured using the **Page Object Model**, and each feature has its own folder containing:
 - The test case file (`.spec.ts`)
